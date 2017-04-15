@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">PatentSearchQuiz</string>
+
+    <string name="question1">1. What is the Cooperative Patent Classification more commonly known as?</string>
+    <string name="question1_choice1">IPC</string>
+    <string name="question1_choice2">CPA</string>
+    <string name="question1_choice3">CPC</string>
+
+    <string name="question2">2. What type of patent search involves finding prior art for an existing patent or patent application?</string>
+
+    <string name="question3">3. Select all IP5 offices.</string>
+    <string name="question3_choice1">USPTO</string>
+    <string name="question3_choice2">EPO</string>
+    <string name="question3_choice3">UKIPO</string>
+    <string name="question3_choice4">WIPO</string>
+
+    <string name="question4">4. Name one of the two patent offices that set up the Cooperative Patent Classification.</string>
+
+    <string name="question5">5 In what year were the first patent applications published?</string>
+    <string name="question5_choice1">1976</string>
+    <string name="question5_choice2">1978</string>
+    <string name="question5_choice3">1981</string>
+
+    <string name="question6">6. Select all patent databases from the list.</string>
+    <string name="question6_choice1">PatBase</string>
+    <string name="question6_choice2">PatSeer</string>
+    <string name="question6_choice3">PatPat</string>
+    <string name="question6_choice4">Orbit</string>
+
+    <string name="question7">7. Which patent office had the largest number of patent filings in 2016?</string>
+
+    <string name="question8">8. In what year were US PGP applications first published?</string>
+
+    <string name="submit_answers">Submit Answers</string>
+
+</resources>
